@@ -6,16 +6,7 @@ galaxy_info:
   #github_branch:
   platforms:
     - name: Debian
-      versions:
-        - wheezy
-        - jessie
-        - stretch
     - name: Ubuntu
-      versions:
-        - trusty
-        - xenial
-        - zesty
-
   galaxy_tags:
     - development
     - packaging
